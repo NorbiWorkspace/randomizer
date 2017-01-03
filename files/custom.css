@@ -1,0 +1,7 @@
+.bordered {
+  border-left: 1px solid #e6e6e6;
+  border-right: 1px solid #e6e6e6;
+}
+.icon-padding {
+	padding-right: 5px;
+}
